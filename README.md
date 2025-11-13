@@ -1,0 +1,1 @@
+Use this DSS (EaSiCrom) to perform simulations of your cropping systems in a very simple way. It requires a very few parameters and its outputs concern growth, development, yield, water balance, water optimization and responce of the corp to the climate changes.
